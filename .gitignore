@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Azure ML auto-generated
+.amlignore
+.amlignore.amltmp
+**/.amlignore
+**/.amlignore.amltmp
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.ipynb_aml_checkpoints/
+**/.ipynb_aml_checkpoints/
